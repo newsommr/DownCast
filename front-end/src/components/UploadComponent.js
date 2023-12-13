@@ -6,7 +6,7 @@ import UploadZone from './UploadZone';
 import PodcastList from './PodcastList';
 
 // Setting the default base URL for axios.
-axios.defaults.baseURL = 'https://fastapi-example-blss.onrender.com';
+axios.defaults.baseURL = 'https://down-cast.fly.dev';
 
 /**
  * UploadComponent
